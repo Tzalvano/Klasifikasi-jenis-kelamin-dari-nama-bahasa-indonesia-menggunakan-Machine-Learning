@@ -17,7 +17,7 @@ Metode klasifikasi yang digunakan adalah Logistic Regression, Naive Bayes dan Ra
 
 ### Setup program
 1. Clone repository ini
-2. Masuk ke direktori project `cd Deteksi-jenis-kelamin-dari-nama-bahasa-indonesia-menggunakan-Machine-Learning`
+2. Masuk ke direktori project `cd Klasifikasi-jenis-kelamin-dari-nama-bahasa-indonesia-menggunakan-Machine-Learning`
 3. Buat Python virtual environment `python3 -m venv venv`
 4. Aktifkan virtual environment `source venv/bin/activate`
 5. Install dependency `pip3 install -r requirements.txt`
